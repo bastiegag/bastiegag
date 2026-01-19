@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sébastien Gagné
 
-<!--
-**bastiegag/bastiegag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer building product-oriented web applications.
 
-Here are some ideas to get you started:
+**Stack:** React · TypeScript · Ruby  
+**Focus:** Clean architecture · UI/UX · Maintainability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **Portfolio** — Interactive portfolio built with React and TypeScript  
+- **Budgeting App** — Full stack personal finance web application
+
+## Links
+
+- Portfolio: https://your-portfolio-url
+- LinkedIn: https://linkedin.com/in/your-profile
