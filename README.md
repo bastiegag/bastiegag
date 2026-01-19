@@ -1,16 +1,16 @@
 # Sébastien Gagné
 
-Senior Full Stack Developer building product-oriented web applications.
-
-**Stack:** React · TypeScript · Ruby  
-**Focus:** Clean architecture · UI/UX · Maintainability
+Senior Full Stack Developer · React · TypeScript · Ruby  
+Product-oriented · Clean architecture · UI/UX
 
 ## Projects
 
-- **Portfolio** — Interactive portfolio built with React and TypeScript  
-- **Budgeting App** — Full stack personal finance web application
+- **[Portfolio](https://sebastiengagne.ca)**  
+  Repo: https://github.com/bastiegag/portfolio
+
+- **[Dude, Where's My Cash?](https://github.com/bastiegag/dwmc)** — Full stack personal finance web application
 
 ## Links
 
-- Portfolio: https://your-portfolio-url
-- LinkedIn: https://linkedin.com/in/your-profile
+- Portfolio: https://sebastiengagne.ca  
+- LinkedIn: https://www.linkedin.com/in/bastiegag/
