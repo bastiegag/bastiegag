@@ -3,9 +3,9 @@ Hi, I'm Sébastien Gagné!
 [Portfolio](https://sebastiengagne.ca) • [LinkedIn](https://linkedin.com/in/bastiegag) • [Email](mailto:bastiegag@gmail.com)
 
 ## About Me
-I'm a Senior Frontend Developer with 14+ years of experience building and modernizing web applications in SaaS and product-focused environments. 
-I specialize in React, TypeScript, and reusable UI systems, with a strong focus on maintainability, clean frontend architecture, and thoughtful user experiences. 
-I enjoy improving existing systems, reducing complexity, and building interfaces that are pleasant to use and easy to maintain.
+Senior Frontend Developer with 14+ years of experience building and modernizing web applications using React and TypeScript.
+
+Passionate about reusable UI systems, frontend architecture, maintainability, accessibility, and building products that are enjoyable for both users and developers.
 
 ## Tech Stack
 
@@ -16,4 +16,4 @@ I enjoy improving existing systems, reducing complexity, and building interfaces
 
 ## Selected Projects
 
-- **Budget Management App:** A modern budgeting application built with React and Node.js. Designed with reusable UI patterns, structured data flows, and Storybook integration, with a strong emphasis on maintainability and scalable frontend architecture.
+- **Budget Management App:** A modern budgeting application built with React and Node.js, focused on maintainable frontend architecture, reusable UI systems, and structured data flows. Built with Storybook to support component-driven development and UI consistency.
