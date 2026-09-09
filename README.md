@@ -5,6 +5,6 @@ Hi, I'm Sébastien!
 ## About Me
 I'm a Senior Frontend Developer specializing in React, TypeScript, frontend architecture, and reusable UI systems.
 
-I combine a strong technical foundation with a creative mindset and a good eye for UI/UX, with a focus on building accessible, performant, and maintainable web applications.
+I combine strong technical expertise with a creative mindset and a good eye for UI/UX, with a focus on building accessible, performant, and maintainable web applications.
 
-I enjoy exploring frontend architecture, performance, design systems, creative development, and new ways of building better experiences for both users and developers.
+I enjoy improving existing systems, reducing complexity, and building thoughtful experiences for both users and developers.
