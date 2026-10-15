@@ -3,11 +3,9 @@ Hi, I'm Sébastien!
 [Portfolio](https://sebastiengagne.ca) • [LinkedIn](https://linkedin.com/in/bastiegag) • [Email](mailto:bastiegag@gmail.com)
 
 ## About Me
-I’m a Senior Frontend Developer based in Sherbrooke, Québec, with 15+ years of experience building and modernizing web applications.
+I’m a Senior Frontend Developer specializing in React, TypeScript, and accessible, reusable interfaces. My background combines frontend development, UI/UX design, and hands-on backend work.
 
-I specialize in React, TypeScript, and reusable UI systems, combining frontend architecture with hands-on UI/UX design experience. I care about accessible interfaces, maintainable code, and the details that make an application feel good to use.
-
-I enjoy building from scratch, simplifying existing systems, and working across frontend and backend when a feature calls for it. I also explore creative coding, animation, and interactive 3D experiences.
+I enjoy building applications from scratch, simplifying existing systems, and creating components that make development easier. I care about maintainable code, thoughtful interactions, and automated testing.
 
 ## Featured Projects
 
